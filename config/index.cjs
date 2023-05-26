@@ -8,13 +8,13 @@
 const USER_CONFIG = {
 
   // 请将以下代码按照图示粘贴到对应位置
-  USE_PASSAGE: 'server-chan',
+  USE_PASSAGE: 'push-plus',
   
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxe9d970c5c5ba9569',
+  //APP_ID: 'wxe9d970c5c5ba9569',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '76d450adc0101a6275aa333d4d52da9a',
+  //APP_SECRET: '76d450adc0101a6275aa333d4d52da9a',
 
   PROVINCE: '四川',
   CITY: '成都',
@@ -24,7 +24,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '王晓洁',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'SCT211333TElQFfGFgTpJbvnI7Ong1AgId',
+      id: '5f1ec53e6d37432bb09eeea123bbc384',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
